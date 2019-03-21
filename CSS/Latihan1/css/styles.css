@@ -1,3 +1,108 @@
 body{
-  color: #aabbcc;
+  color: #0000ff;
+  width: 950px;
+  margin: auto;
 }
+#header{
+  background: rgb(97, 198, 216);
+  text-align: center;
+  font-size: 20px;
+  padding-top: 10px;
+}
+#nama{
+  color: rgb(54, 54, 211);
+  font-family: cursive;
+  text-align: center;
+
+}
+#seorang {
+  color: rgb(37, 37, 236);
+  font-family: cursive;
+  text-align: center;
+
+}
+
+#header1 h1{
+  font-family: Arial, Helvetica, sans-serif
+
+}
+.cloud1{
+  width: 13%;
+  padding-top: 20px;
+  padding-left: 64%; 
+  
+}
+.clound2{
+  float: 13%;
+  padding-left: 20%; 
+}
+.p1 {
+  text-align: center;
+  padding: 0px 310px 0px 310px;
+}
+.p1ahli{
+  padding-right: 140px;
+  padding-bottom:  40px;
+}
+.h1ahli{
+  padding-top: 20px;
+}
+.p2ahli{
+  padding-left: 140px;
+  padding-bottom: 15px; 
+}
+.h2ahli{
+  padding-left: 140px;
+  padding-top: 15px;
+}
+#h2{
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding: 10px;
+}
+#hr{
+  border: none;
+  border-top: 11px dotted rgb(122, 122, 245);
+  color : white;
+  background-color: whitesmoke;
+  height: 5px;
+  width: 7%;   
+}
+.unhas{
+  width: 25%;
+  padding: 50px;
+  display: block;
+  margin: 0px auto;
+  text-align: center;
+}
+.img1{
+  float: left;
+  width: 150px;
+  height: 150px;
+  margin: 0px;
+  padding: 0px 10px 10px 140px;
+}
+.img2{
+  float: right;
+  width: 150px;
+  height: 150px;
+  margin: 0px;
+  padding: 10px 140px 10px 0px;
+}
+.kontak{
+  text-align: center;
+  padding-bottom: 30px;
+}
+.button{
+  background-color: rgb(37, 161, 233);
+  padding: 8px 15px;
+  color: white;
+  text-decoration: none;
+  margin-top: 100px;
+}
+.footer{
+  background-color: rgb(113, 182, 238);
+  padding: 10px;
+  text-align: center; 
+}
+
